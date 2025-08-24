@@ -49,8 +49,8 @@ You can deploy the dist/ folder to any static hosting service like GitHub Pages,
 
 ##  Dependencies
 
- Three.js
- vite
+ 1.Three.js
+ 2. vite
 
 ## Author
 
