@@ -17,10 +17,10 @@ This project is a simple and efficient 3D scene built using [Three.js](https://t
 
 ##  Features
 
-- 🌍 Real-time 3D rendering with Three.js
-- ⚡ Lightning-fast development with Vite
-- 🔧 Modular and maintainable code structure
-- 🎮 Responsive rendering and animation loop
+-  Real-time 3D rendering with Three.js
+-  Lightning-fast development with Vite
+-  Modular and maintainable code structure
+-  Responsive rendering and animation loop
 
 
 ## Installation
