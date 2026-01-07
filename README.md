@@ -1,4 +1,4 @@
-#  Three.js 3D Scene with Vite
+#  Three.js 3D Scene with Vite 3JS
 
 This project is a simple and efficient 3D scene built using [Three.js](https://threejs.org/) and powered by [Vite](https://vitejs.dev/) for fast development and bundling....
 
